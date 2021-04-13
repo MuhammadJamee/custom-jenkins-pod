@@ -19,3 +19,6 @@ ssh-slaves:latest
 timestamper:latest
 workflow-aggregator:latest
 ws-cleanup:latest
+docker-build-step:latest
+kubernetes:latest
+bitbucket:latest
