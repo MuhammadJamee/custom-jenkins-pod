@@ -22,5 +22,3 @@ ws-cleanup:latest
 docker-build-step:latest
 kubernetes:latest
 bitbucket:latest
-docker-workflow:latest
-pipeline-maven:latest
